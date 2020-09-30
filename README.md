@@ -1,4 +1,4 @@
-# Photography Website Concept 
+# Amazing Photography Website Concept 
 
 A photography-inspired website layout with an expanding stack slider and a background image tilt effect.
 
