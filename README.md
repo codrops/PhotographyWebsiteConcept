@@ -1,6 +1,6 @@
 # Photography Website Concept 
 
-A photography-inspired website layout with an expanding stack slider and a background image tilt effect.
+A photography-inspired website layout, with an expanding stack slider and a background image tilt effect.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=23446)
 
@@ -8,14 +8,14 @@ A photography-inspired website layout with an expanding stack slider and a backg
 
 ## License
 
-Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html)
+Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## Credits 
 
 ### Flickity 
-[Flickity](http://flickity.metafizzy.co/) by [David DeSandro](http://desandro.com/) used under the terms of the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html)
+[Flickity](http://flickity.metafizzy.co/) by [David DeSandro](http://desandro.com/), used under the terms of the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html)
 
-If you want to use Flickity to develop commercial sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a Flickity Commercial License at [flickity.metafizzy.co](http://flickity.metafizzy.co/#commerical-license)
+If you want to use Flickity to develop commercial sites, themes, projects, and applications - the Commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a Flickity Commercial License at [flickity.metafizzy.co](http://flickity.metafizzy.co/#commerical-license)
 
 If you are creating an open source application under a license compatible with the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html), you may use Flickity under the terms of the GPLv3.
 
